@@ -7,7 +7,12 @@ instead of the System WebView. Requires cordova-android 4.0 or greater.
 
 # installation
 
+1. install directly with repo url (unstable)
 `cordova plugin add https://github.com/YES-Lee/cordova-plugin-crosswalk-webview.git`
+
+2. download repo and install with repo path (recommanded)
+`git clone https://github.com/YES-Lee/cordova-plugin-crosswalk-webview.git`
+`cordova plugin add /your path/cordova-plugin-crosswalk-webview`
 
 # NOTE
 
